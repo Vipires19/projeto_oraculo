@@ -7,7 +7,7 @@ from loaders import *
 
 st.set_page_config(
         layout =  'wide', 
-        page_title = 'CamppoAI Vision')
+        page_title = 'Gideon, O Sabe-Tudo')
 
 ARQUIVOS = ['Site', 'Vídeo Youtube', 'PDF', 'CSV', 'EXCEL', 'Texto']
 
