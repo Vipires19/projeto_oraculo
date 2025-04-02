@@ -76,8 +76,8 @@ def carrega_modelo(tipo_arquivo, arquivo):
     st.session_state['chat'] = chain    
 
 def pagina_chat():
-    st.header('CamppoAI Vision')
-    st.markdown('O seu assistente "Sabe Tudo"')
+    st.header('GIDEON')
+    st.markdown('O Sabe Tudo')
     st.divider()
 
     chat_llm = st.session_state.get('chat')
